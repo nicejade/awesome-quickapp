@@ -1,4 +1,4 @@
-<p align="center"><a href="https://nicelinks.site/post/5b5fb5bc615bf842b609105f" target="_blank"><img width="300"src="https://github.com/nicejade/awesome-quickapp/blob/master/resources/images/quickapp.png"></a></p>
+<p align="center"><a href="https://nicelinks.site/post/5b5fb5bc615bf842b609105f" target="_blank"><img width="200"src="https://github.com/nicejade/awesome-quickapp/blob/master/resources/images/quickapp.png"></a></p>
 
 <h1 align="center">快应用开发资源、教程汇聚</h1>
 
@@ -44,14 +44,20 @@
 
 ### 调试器
 
-[快应用调试器](https://github.com/nicejade/awesome-quickapp/blob/master/resources/quickapp_debugger.apk.apk?raw=true)
+- [快应用调试器](https://github.com/nicejade/awesome-quickapp/blob/master/resources/quickapp_debugger.apk.apk?raw=true)
+
+`快应用调试器`可以连接到手机系统内的快应用执行环境，可以让您方便调试[「快应用」](https://nicelinks.site/post/5b5fb5bc615bf842b609105f)程序。
 
 ### 快应用预览版
 
-[快应用预览版 v1030](https://github.com/nicejade/awesome-quickapp/blob/master/resources/quickapp_platform_preview_release_v1030.apk?raw=true)
-[快应用预览版 v1020](https://github.com/nicejade/awesome-quickapp/blob/master/resources/quickapp_platform_preview_release_v1020.apk?raw=true)
-[快应用预览版 v1010](https://github.com/nicejade/awesome-quickapp/blob/master/resources/quickapp_platform_preview_release_v1010.apk?raw=true)
-[快应用预览版 v1000](https://github.com/nicejade/awesome-quickapp/blob/master/resources/quickapp_platform_preview_release_v1000.apk?raw=true)
+当您的手机系统尚未内置快应用运行平台，或您想在开发过程中体验快应用尚未正式发布的新功能、新特性，您可以安装 快应用预览版。这是一个包含了快应用基础功能的 `Android` 应用程序。下载安装成功后，通过快应用调试器可以选择在快应用预览版运行 rpk 包，开发测试对应平台的 `api` 和功能。
+
+- [快应用预览版 v1030](https://github.com/nicejade/awesome-quickapp/blob/master/resources/quickapp_platform_preview_release_v1030.apk?raw=true)
+- [快应用预览版 v1020](https://github.com/nicejade/awesome-quickapp/blob/master/resources/quickapp_platform_preview_release_v1020.apk?raw=true)
+- [快应用预览版 v1010](https://github.com/nicejade/awesome-quickapp/blob/master/resources/quickapp_platform_preview_release_v1010.apk?raw=true)
+- [快应用预览版 v1000](https://github.com/nicejade/awesome-quickapp/blob/master/resources/quickapp_platform_preview_release_v1000.apk?raw=true)
+
+>**注意**：如果您之前已经安装过较高版本的快应用预览版，则安装低版本时，需要先卸载之前的预览版。
 
 ## 工具篇
 
