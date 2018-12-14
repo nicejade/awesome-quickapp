@@ -1,3 +1,7 @@
+<p align="center"><a href="https://nicelinks.site/post/5b5fb5bc615bf842b609105f" target="_blank"><img width="300"src="https://github.com/nicejade/awesome-quickapp/blob/master/resources/images/quickapp.png"></a></p>
+
+<h1 align="center">快应用开发资源、教程汇聚</h1>
+
 **导语：**[快应用](https://nicelinks.site/post/5b5fb5bc615bf842b609105f)是基于手机硬件平台的新型应用形态，标准是由主流手机厂商组成的`快应用联盟`联合制定。其标准的诞生将在研发接口、能力接入、开发者服务等层面建设标准平台，以平台化的生态模式对个人开发者和企业开发者全品类开放。[快应用](https://nicelinks.site/post/5b5fb5bc615bf842b609105f)具备传统 APP 完整的应用体验，`无需安装、即点即用`；`覆盖 10 亿设备`，`与操作系统深度集成，探索新型应用场景`。快应用 ──**复杂生活的简单答案，让生活更顺畅** ── 来自 [快应用官方网站 | 倾城之链](https://nicelinks.site/post/5b5fb5bc615bf842b609105f)。
 
 ## 基础篇
@@ -40,7 +44,14 @@
 
 ### 调试器
 
+[快应用调试器](https://github.com/nicejade/awesome-quickapp/blob/master/resources/quickapp_debugger.apk.apk?raw=true)
+
 ### 快应用预览版
+
+[快应用预览版 v1030](https://github.com/nicejade/awesome-quickapp/blob/master/resources/quickapp_platform_preview_release_v1030.apk?raw=true)
+[快应用预览版 v1020](https://github.com/nicejade/awesome-quickapp/blob/master/resources/quickapp_platform_preview_release_v1020.apk?raw=true)
+[快应用预览版 v1010](https://github.com/nicejade/awesome-quickapp/blob/master/resources/quickapp_platform_preview_release_v1010.apk?raw=true)
+[快应用预览版 v1000](https://github.com/nicejade/awesome-quickapp/blob/master/resources/quickapp_platform_preview_release_v1000.apk?raw=true)
 
 ## 工具篇
 
