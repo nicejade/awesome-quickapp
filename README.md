@@ -11,7 +11,8 @@
   - [快应用教程](#快应用教程)
 - [快应用生态篇](#快应用生态篇)
   - [脚手架](#脚手架)
-  - [UI 组件](#UI 组件)
+  - [NPM插件篇](#NPM插件篇)
+  - [UI组件库](#UI组件库)
   - [示例篇](#示例篇)
   - [工具篇](#工具篇)
 - [资源引擎篇](#资源引擎篇)
@@ -49,9 +50,14 @@
 
 * [quickapp-boilerplate-template](https://github.com/nicejade/quickapp-boilerplate-template): <sub>🔨致力于构建更为优雅的快应用开发脚手架模板。</sub>
 
-#### UI 组件
+#### NPM插件篇
 
-* [Quist-UI | 快应用 UI 组件库](https://github.com/JDsecretFE/quist-ui)
+* [prettier](https://github.com/prettier/prettier): <sub>Prettier is an opinionated code formatter. https://prettier.io/</sub>
+* [prettier-plugin-quickapp](https://github.com/nicejade/prettier-plugin-quickapp): <sub>Prettier Quickapp Plugin .</sub>
+
+#### UI组件库
+
+* [Quist-UI | 快应用 UI组件库库](https://github.com/JDsecretFE/quist-ui)
 
 ### 示例篇
 
