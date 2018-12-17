@@ -12,9 +12,6 @@
   <a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/badge/node-%3E%3D%208.0.0-green.svg" alt="node version">
   </a>
-  <a href="https://github.com/nicejade/vue-boilerplate-template">
-    <img src="https://img.shields.io/github/license/nicejade/vue-boilerplate-template.svg" alt="LICENSE">
-  </a>
   <a href="https://nice.lovejade.cn/zh/article/awesome-quickapp.html">
    <img src="https://img.shields.io/badge/chat-on%20blog-brightgreen.svg" alt="Chat On My Blog">
  </a>
