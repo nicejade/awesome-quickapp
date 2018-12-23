@@ -61,6 +61,7 @@
 
 #### 快应用常见问题
 
+* [快应用的机型覆盖、场景覆盖、框架版本](https://bbs.quickapp.cn/forum.php?mod=viewthread&tid=757)
 * [快应用常见问题和技术帖子汇总](https://bbs.quickapp.cn/forum.php?mod=viewthread&tid=838)
 * [快应用账号注册流程](https://www.quickapp.cn/docCenter/post/71)
 
