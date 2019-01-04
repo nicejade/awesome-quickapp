@@ -21,7 +21,9 @@
   <a href="https://hacpai.com/article/1546355514338">
    <img src="https://img.shields.io/badge/chat-on%20hacpai-brightgreen.svg" alt="Chat On Hacpai">
   </a>
-  <a href="https://about.me/nicejade"><img src="https://img.shields.io/badge/Author-nicejade-%23a696c8.svg" alt="Author nicejade"></a>
+  <a href="https://aboutme.lovejade.cn/">
+    <img src="https://img.shields.io/badge/Author-nicejade-%23a696c8.svg" alt="Author nicejade">
+  </a>
 </div>
 
 <br>
@@ -109,7 +111,7 @@
 
 #### 调试器下载
 
-- [快应用调试器](https://github.com/nicejade/awesome-quickapp/blob/master/resources/quickapp_debugger.apk.apk?raw=true)
+- [快应用调试器](https://github.com/nicejade/awesome-quickapp/blob/master/resources/quickapp_debugger.apk?raw=true)
 
 `快应用调试器`可以连接到手机系统内的快应用执行环境，可以让您方便调试[「快应用」](https://nicelinks.site/post/5b5fb5bc615bf842b609105f)程序。
 
