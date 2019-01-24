@@ -48,6 +48,7 @@
   - [快应用预览版](#快应用预览版)
 - [快应用分发](#应用分发)
 - [快应用新闻](#快应用新闻)
+- [快应用审核规则](#快应用审核规则)
 
 ---
 
@@ -133,12 +134,21 @@
 
 ### 应用分发
 
-* [VIVO 快应用分发](https://dev.vivo.com.cn/distribute/quickApp)
 * [华为 快应用分发](https://developer.huawei.com/consumer/cn/service/hms/fastapp.html)
+* [vivo 快应用分发](https://dev.vivo.com.cn/distribute/quickApp)
 * [OPPO 快应用分发](https://open.oppomobile.com/service/distribute#id=4)
 * [小米 快应用分发](https://dev.mi.com/console/app/newapp.html)
 * [魅族开放平台](https://open.flyme.cn/)
+* [联想快应用发布](http://open.lenovo.com/developer/adp/helpData/database_detail.jsp?url=http://open.lenovo.com/sdk/?p=796)
 
 ### 快应用新闻
 
 * [快应用 v1030 上线](https://doc.quickapp.cn/changelog/1030.html)： <sub>2018-11-28</sub>
+
+### 快应用审核规则
+
+* [华为 | 快应用审核规则](https://developer.huawei.com/consumer/cn/service/hms/catalog/fastapp.html?page=fastapp_fastapp_toapprove_rule)
+* [vivo | 快应用审核规则](https://dev.vivo.com.cn/documentCenter/doc/120)
+* [OPPO | 快应用审核规则](https://open.oppomobile.com/service/distribute#id=4)
+* [魅族 | 快应用审核规则](https://miniapp.meizu.com/resources/document/complaint.html)
+* [联想 | 快应用审核规则](http://open.lenovo.com/sdk/%E5%BF%AB%E5%BA%94%E7%94%A8%E5%8F%91%E5%B8%83-2/)
