@@ -35,6 +35,7 @@
 - [基础教程篇](#基础教程篇)
   - [快应用文档](#快应用文档)
   - [快应用教程](#快应用教程)
+  - [快应用博客](https://quickapp.lovejade.cn/tag/quickapp/?utm_source=github.com)
   - [快应用常见问题](#快应用常见问题)
 - [快应用生态篇](#快应用生态篇)
   - [脚手架](#脚手架)
@@ -64,6 +65,8 @@
 
 * [「快应用」开发体验纪要](https://nice.lovejade.cn/zh/article/develop-quick-app-experience-notes.html)
 * [快应用脚手架，为优雅而生](https://nice.lovejade.cn/zh/article/quickapp-boilerplate-template.html)
+* [Prettier 插件为更漂亮快应用代码](https://quickapp.lovejade.cn/prettier-quickapp-plugin/)
+* [如何优雅处理「快应用」数据请求](https://quickapp.lovejade.cn/how-to-elegantly-handle-quickapp-request/)
 * [快应用快速入门教程](https://juejin.im/post/5ab27d8e518825557e78485e)
 * [对标小程序 ? " 快应用 " 开发入门指南](https://juejin.im/post/5ab26a1e6fb9a028b547c675)
 
@@ -91,7 +94,7 @@
 
 #### UI组件库
 
-* [Quist-UI | 快应用 UI组件库库](https://github.com/JDsecretFE/quist-ui)
+* [Quist-UI | 快应用 UI组件库](https://github.com/JDsecretFE/quist-ui)
 
 ### 示例篇
 
@@ -106,6 +109,8 @@
 * [快应用开发工具使用说明文档](https://bbs.quickapp.cn/forum.php?mod=viewthread&tid=1052): <sub>快应用【官方IDE】使用说明文档</sub>
 * [vue-hap-tools](https://github.com/Youjingyu/vue-hap-tools): <sub>一个抹平 vue.js 与快应用差异性的工具，现已支持vue.js的大部分常用特性、vue-router、vuex。</sub>
 * [娜娜奇 | 基于 React 的多端小程序转译框架](https://rubylouvre.github.io/nanachi/documents/install.html): <sub>是一处编写多处运行的小程序、快应用的转译框架。</sub>
+* [Chameleon | 变色龙](https://github.com/didi/chameleon): <sub>真正专注于让一套代码运行多端的开发框架，提供标准的MVVM架构开发模式统一各类终端 https://CMLJS.org
+</sub>
 
 ### 资源引擎篇
 
