@@ -48,6 +48,8 @@
   - [快应用预览版](#快应用预览版)
 - [快应用分发](#应用分发)
 - [快应用新闻](#快应用新闻)
+  - [版本新闻](#版本新闻)
+  - [其他新闻](#其他新闻)
 - [快应用审核规范](#快应用审核规范)
 
 ---
@@ -74,7 +76,7 @@
 #### 快应用常见问题
 
 * [快应用开发问题反馈和需求征集](https://github.com/quickappcn/issues)
-* [快应用的机型覆盖、场景覆盖、框架版本](https://bbs.quickapp.cn/forum.php?mod=viewthread&tid=757)
+* [快应用的机型覆盖、场景覆盖、框架版本](https://quickapp.lovejade.cn/quickapp-phone_model-device-scene-coverage/?utm_source=github)
 * [快应用常见问题和技术帖子汇总](https://bbs.quickapp.cn/forum.php?mod=viewthread&tid=838)
 * [快应用账号注册流程](https://www.quickapp.cn/docCenter/post/71)
 
@@ -143,7 +145,13 @@
 
 ### 快应用新闻
 
+#### 版本新闻
+
 * [快应用 v1030 上线](https://doc.quickapp.cn/changelog/1030.html)： <sub>2018-11-28</sub>
+
+#### 其他新闻
+
+* [2018 年快应用行业报告](http://pic-test.kss.ksyun.com/quickapp_statistics/pdf/2018年快应用行业报告-preview.pdf)
 
 ### 快应用审核规范
 
