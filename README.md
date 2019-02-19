@@ -21,7 +21,7 @@
   <a href="https://hacpai.com/article/1546355514338">
    <img src="https://img.shields.io/badge/chat-on%20hacpai-brightgreen.svg" alt="Chat On Hacpai">
   </a>
-  <a href="https://aboutme.lovejade.cn/">
+  <a href="https://aboutme.lovejade.cn/?utm_source=github-awesome-quickapp">
     <img src="https://img.shields.io/badge/Author-nicejade-%23a696c8.svg" alt="Author nicejade">
   </a>
 </div>
@@ -84,7 +84,7 @@
 
 * [快统计 - 轻粒子](http://www.qinglizi.cn/): <sub>专注于快应用数据统计分析；数据监控；渠道识别；人群分析；事件/转化漏斗；</sub>
 * [友盟快应用统计 SDK 集成文档](https://developer.umeng.com/docs/84810/detail/84811): <sub>接入友盟快应用统计 SDK，可以在U-App官网中查看应用新增用户、活跃用户、启动次数、使用时长等基本数据。</sub>
-* [快应用入口合集](https://bbs.quickapp.cn/forum.php?mod=viewthread&tid=552&fromuid=139)
+* [快应用入口合集](https://bbs.quickapp.cn/forum.php?mod=viewthread&tid=552&fromuid=139)：<sub>各大厂商快应用入口汇总说明</sub>
 
 #### 脚手架
 
