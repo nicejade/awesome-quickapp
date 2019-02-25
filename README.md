@@ -86,6 +86,8 @@
 * [快统计 - 轻粒子](http://www.qinglizi.cn/): <sub>专注于快应用数据统计分析；数据监控；渠道识别；人群分析；事件/转化漏斗；</sub>
 * [友盟快应用统计 SDK 集成文档](https://developer.umeng.com/docs/84810/detail/84811): <sub>接入友盟快应用统计 SDK，可以在U-App官网中查看应用新增用户、活跃用户、启动次数、使用时长等基本数据。</sub>
 * [快应用入口合集](https://bbs.quickapp.cn/forum.php?mod=viewthread&tid=552&fromuid=139)：<sub>各大厂商快应用入口汇总说明</sub>
+* [快应用简书专题](https://www.jianshu.com/c/967284997de2)：<sub>汇聚收录简书快应用相关优质文章。</sub>
+* [快应用精选 | 开发者头条](https://toutiao.io/subjects/374789)： <sub>收录优质文章在开发者头条分享。</sub>
 
 #### 脚手架
 
