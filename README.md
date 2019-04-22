@@ -155,6 +155,7 @@
 
 #### 其他新闻
 
+* [快应用开放平台接口，可支持第三方的 DSL](https://mp.weixin.qq.com/s/1IHGbVtcDPYPP41yNOHyPA): <sub>2019-04-16</sub>
 * [2018 年快应用行业报告](http://pic-test.kss.ksyun.com/quickapp_statistics/pdf/2018年快应用行业报告-preview.pdf)
 
 ### 快应用审核规范
