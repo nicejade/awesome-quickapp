@@ -112,7 +112,7 @@
 
 #### 工具篇
 
-* [快应用开发工具使用说明文档](https://bbs.quickapp.cn/forum.php?mod=viewthread&tid=1052): <sub>快应用【官方IDE】使用说明文档</sub>
+* [快应用官方 IDE](https://www.quickapp.cn/docCenter/IDEPublicity): <sub>更推荐使用 `Vscode` + `Terminal`</sub>
 * [vue-hap-tools](https://github.com/Youjingyu/vue-hap-tools): <sub>一个抹平 vue.js 与快应用差异性的工具，现已支持vue.js的大部分常用特性、vue-router、vuex。</sub>
 * [娜娜奇 | 基于 React 的多端小程序转译框架](https://rubylouvre.github.io/nanachi/documents/install.html): <sub>是一处编写多处运行的小程序、快应用的转译框架。</sub>
 * [Chameleon | 变色龙](https://github.com/didi/chameleon): <sub>真正专注于让一套代码运行多端的开发框架，提供标准的MVVM架构开发模式统一各类终端 https://CMLJS.org</sub>
