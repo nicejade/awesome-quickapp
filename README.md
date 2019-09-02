@@ -16,7 +16,7 @@
    <img src="https://img.shields.io/badge/chat-on%20blog-brightgreen.svg" alt="Chat On My Blog">
   </a>
   <a href="https://www.v2ex.com/t/522962">
-   <img src="https://img.shields.io/badge/chat-on%20v2ex-brightgreen.svg" alt="Chat On Hacpai">
+   <img src="https://img.shields.io/badge/chat-on%20v2ex-brightgreen.svg" alt="Chat On V2ex">
   </a>
   <a href="https://hacpai.com/article/1546355514338">
    <img src="https://img.shields.io/badge/chat-on%20hacpai-brightgreen.svg" alt="Chat On Hacpai">
@@ -100,6 +100,7 @@
 
 #### UI组件库
 
+* [vivoquickapp/apex-ui](https://github.com/vivoquickapp/apex-ui): <sub>apex ui quickapp ui components library（Apex-UI组件库）</sub>
 * [Quist-UI | 快应用 UI组件库](https://github.com/JDsecretFE/quist-ui): <sub>快应用UI组件库，简洁，易用，高效</sub>
 
 ### 示例篇
