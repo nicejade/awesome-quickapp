@@ -117,6 +117,7 @@
 * [vue-hap-tools](https://github.com/Youjingyu/vue-hap-tools): <sub>一个抹平 vue.js 与快应用差异性的工具，现已支持vue.js的大部分常用特性、vue-router、vuex。</sub>
 * [娜娜奇 | 基于 React 的多端小程序转译框架](https://rubylouvre.github.io/nanachi/documents/install.html): <sub>是一处编写多处运行的小程序、快应用的转译框架。</sub>
 * [Chameleon | 变色龙](https://github.com/didi/chameleon): <sub>真正专注于让一套代码运行多端的开发框架，提供标准的MVVM架构开发模式统一各类终端 https://CMLJS.org</sub>
+* [deepkolos/hap-types](https://github.com/deepkolos/hap-types): <sub>快应用接口定义文档转的 d.ts 定义包，用在 TS 编写快应用时，编辑器可给出提示</sub>
 
 ### 资源引擎篇
 
