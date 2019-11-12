@@ -40,6 +40,7 @@
 - [快应用生态篇](#快应用生态篇)
   - [脚手架](#脚手架)
   - [NPM插件篇](#NPM插件篇)
+  - [开发框架](#开发框架)
   - [UI组件库](#UI组件库)
   - [示例篇](#示例篇)
   - [工具篇](#工具篇)
@@ -75,6 +76,7 @@
 
 #### 快应用常见问题
 
+* [Quick App · 快应用问题检索](https://qapp-wiki.vivo.com.cn): 由 [vivo](https://quickapp.vivo.com.cn) 所出品的快应用问题在线检索；
 * [快应用开发问题反馈和需求征集](https://github.com/quickappcn/issues)
 * [快应用开发常见问题及解决方案](https://quickapp.lovejade.cn/quickapp-common-problems-and-solutions/)
 * [快应用的机型覆盖、场景覆盖、框架版本](https://quickapp.lovejade.cn/quickapp-phone_model-device-scene-coverage/?utm_source=github)
@@ -98,6 +100,12 @@
 * [prettier](https://github.com/prettier/prettier): <sub>Prettier is an opinionated code formatter. https://prettier.io/</sub>
 * [prettier-plugin-quickapp](https://github.com/nicejade/prettier-plugin-quickapp): <sub>Prettier Quickapp Plugin .</sub>
 
+#### 开发框架
+
+* [NervJS/taro](https://github.com/NervJS/taro): <sub>多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动/ QQ 小程序、快应用、H5、React Native 等的应用。 https://taro.jd.com https://taro-docs.jd.com</sub>
+* [娜娜奇 | 基于 React 的多端小程序转译框架](https://rubylouvre.github.io/nanachi/documents/install.html): <sub>是一处编写多处运行的小程序、快应用的转译框架。</sub>
+* [Chameleon | 变色龙](https://github.com/didi/chameleon): <sub>真正专注于让一套代码运行多端的开发框架，提供标准的MVVM架构开发模式统一各类终端 https://CMLJS.org</sub>
+
 #### UI组件库
 
 * [vivoquickapp/apex-ui](https://github.com/vivoquickapp/apex-ui): <sub>apex ui quickapp ui components library（Apex-UI组件库）</sub>
@@ -115,8 +123,6 @@
 
 * [快应用官方 IDE](https://www.quickapp.cn/docCenter/IDEPublicity): <sub>更推荐使用 `Vscode` + `Terminal`</sub>
 * [vue-hap-tools](https://github.com/Youjingyu/vue-hap-tools): <sub>一个抹平 vue.js 与快应用差异性的工具，现已支持vue.js的大部分常用特性、vue-router、vuex。</sub>
-* [娜娜奇 | 基于 React 的多端小程序转译框架](https://rubylouvre.github.io/nanachi/documents/install.html): <sub>是一处编写多处运行的小程序、快应用的转译框架。</sub>
-* [Chameleon | 变色龙](https://github.com/didi/chameleon): <sub>真正专注于让一套代码运行多端的开发框架，提供标准的MVVM架构开发模式统一各类终端 https://CMLJS.org</sub>
 * [deepkolos/hap-types](https://github.com/deepkolos/hap-types): <sub>快应用接口定义文档转的 d.ts 定义包，用在 TS 编写快应用时，编辑器可给出提示</sub>
 
 ### 资源引擎篇
