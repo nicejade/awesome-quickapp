@@ -160,6 +160,7 @@
 
 #### 版本新闻
 
+* [快应用 v1060 上线](https://doc.quickapp.cn/changelog/1060.html): <sub>2019-12-03</sub>
 * [快应用 v1050 上线](https://doc.quickapp.cn/changelog/1050.html): <sub>2019-07-03</sub>
 * [快应用 v1040 上线](https://doc.quickapp.cn/changelog/1040.html)： <sub>2019-02-22</sub>
 * [快应用 v1030 上线](https://doc.quickapp.cn/changelog/1030.html)： <sub>2018-11-28</sub>
