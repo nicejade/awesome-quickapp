@@ -121,7 +121,7 @@
 
 #### 工具篇
 
-* [快应用官方 IDE](https://www.quickapp.cn/docCenter/IDEPublicity): <sub>更推荐使用 `Vscode` + `Terminal`</sub>
+* [快应用官方 IDE](https://www.quickapp.cn/docCenter/IDEPublicity): <sub>简单易用 灵活扩展 全面支持联盟标准规范</sub>
 * [vue-hap-tools](https://github.com/Youjingyu/vue-hap-tools): <sub>一个抹平 vue.js 与快应用差异性的工具，现已支持vue.js的大部分常用特性、vue-router、vuex。</sub>
 * [deepkolos/hap-types](https://github.com/deepkolos/hap-types): <sub>快应用接口定义文档转的 d.ts 定义包，用在 TS 编写快应用时，编辑器可给出提示</sub>
 
