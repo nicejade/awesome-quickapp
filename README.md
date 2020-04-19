@@ -110,6 +110,7 @@
 
 * [vivoquickapp/apex-ui](https://github.com/vivoquickapp/apex-ui): <sub>apex ui quickapp ui components library（Apex-UI组件库）</sub>
 * [Quist-UI | 快应用 UI组件库](https://github.com/JDsecretFE/quist-ui): <sub>快应用UI组件库，简洁，易用，高效</sub>
+* [vivo卡片组件库](https://vivoquickapp.github.io/vivo-cards-suits/): <sub>vivo卡片开发组件库是由vivo官方开发的一套包含个入口UI规范的组件库，可供开发者便捷快速开发能够在vivo手机上线的卡片项目。</sub>
 
 ### 示例篇
 
