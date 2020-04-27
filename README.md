@@ -140,6 +140,7 @@
 当您的手机系统尚未内置快应用运行平台，或您想在开发过程中体验快应用尚未正式发布的新功能、新特性，您可以安装 快应用预览版。这是一个包含了快应用基础功能的 `Android` 应用程序。下载安装成功后，通过快应用调试器可以选择在快应用预览版运行 rpk 包，开发测试对应平台的 `api` 和功能。
 
 
+- [快应用预览版 v1070](https://statres.quickapp.cn/quickapp/quickapptool/release/platform/quickapp_platform_preview_release_v1070.apk)
 - [快应用预览版 v1060](https://github.com/nicejade/awesome-quickapp/blob/master/resources/quickapp_platform_preview_release_v1060.apk?raw=true)
 - [快应用预览版 v1050](https://github.com/nicejade/awesome-quickapp/blob/master/resources/quickapp_platform_preview_release_v1050.apk?raw=true)
 - [快应用预览版 v1040](https://github.com/nicejade/awesome-quickapp/blob/master/resources/quickapp_platform_preview_release_v1040.apk?raw=true)
@@ -163,6 +164,7 @@
 
 #### 版本新闻
 
+* [快应用 v1070 上线](https://doc.quickapp.cn/changelog/1070.html): <sub>2019-04-23</sub>
 * [快应用 v1060 上线](https://doc.quickapp.cn/changelog/1060.html): <sub>2019-12-03</sub>
 * [快应用 v1050 上线](https://doc.quickapp.cn/changelog/1050.html): <sub>2019-07-03</sub>
 * [快应用 v1040 上线](https://doc.quickapp.cn/changelog/1040.html)： <sub>2019-02-22</sub>
