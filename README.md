@@ -73,6 +73,9 @@
 * [如何优雅处理「快应用」数据请求](https://quickapp.lovejade.cn/how-to-elegantly-handle-quickapp-request/)
 * [快应用快速入门教程](https://juejin.im/post/5ab27d8e518825557e78485e)
 * [对标小程序 ? " 快应用 " 开发入门指南](https://juejin.im/post/5ab26a1e6fb9a028b547c675)
+* [搭建以 serverless 为后台服务的疫情热搜快应用](https://quickapp.vivo.com.cn/serverless-quickapp/)
+* [URL 跳转快应用的使用方法说明](https://quickapp.vivo.com.cn/jump-to-quickapp-by-url/)
+* [快应用常用组件开发-图标和表单](https://quickapp.vivo.com.cn/how-to-develop-quickapp-component/)
 
 #### 快应用常见问题
 
