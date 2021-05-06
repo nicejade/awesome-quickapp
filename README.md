@@ -15,8 +15,8 @@
   <a href="https://nice.lovejade.cn/zh/article/awesome-quickapp.html">
    <img src="https://img.shields.io/badge/chat-on%20blog-brightgreen.svg" alt="Chat On My Blog">
   </a>
-  <a href="https://www.v2ex.com/t/522962">
-   <img src="https://img.shields.io/badge/chat-on%20v2ex-brightgreen.svg" alt="Chat On V2ex">
+  <a href="https://github.com/nicejade/awesome-quickapp/issues">
+   <img src="https://img.shields.io/badge/chat-on%20Issues-brightgreen.svg" alt="Chat On Issues">
   </a>
   <a href="https://hacpai.com/article/1546355514338">
    <img src="https://img.shields.io/badge/chat-on%20hacpai-brightgreen.svg" alt="Chat On Hacpai">
@@ -208,6 +208,7 @@
 #### 其他新闻
 
 * [2021 快应用联盟开发者大会四大重点解读](https://bbs.quickapp.cn/forum.php?mod=viewthread&tid=3716)
+* [2021 年流量扶持计划 - 官方活动](https://bbs.quickapp.cn/forum.php?mod=viewthread&tid=2707)
 * [蓄势待发！2021快应用开发者大会来了！](https://bbs.quickapp.cn/forum.php?mod=viewthread&tid=3683)
 * [小程序、快应用、App Clips 对比](https://quickapp.lovejade.cn/miniprogram-quickapp-app_clips/)
 * [未成熟的快应用，值得投入开发吗？](https://www.jianshu.com/p/98127d8819f8)
