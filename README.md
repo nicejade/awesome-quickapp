@@ -68,6 +68,11 @@
 
 #### 快应用教程
 
+* [**2021 快应用「广告」接入教程**](https://quickapp.lovejade.cn/2021-how-to-access-to-quickapp-advertising/)
+* [快应用开发之广告接入指南](https://quickapp.lovejade.cn/quickapp-add-advertisement-tutorial/)
+* [快应用开发之广告接入指南](https://quickapp.lovejade.cn/quickapp-add-advertisement-tutorial/)
+* [快应用开发如何适配 MenuBar?](https://quickapp.lovejade.cn/quickapp-how-to-adapt-menubar/)
+* [如何通过 IDE 的预检测功能提高审核通过率](https://quickapp.lovejade.cn/quickapp-how-to-adapt-menubar/)
 * [「快应用」开发体验纪要](https://nice.lovejade.cn/zh/article/develop-quick-app-experience-notes.html)
 * [快应用脚手架，为优雅而生](https://nice.lovejade.cn/zh/article/quickapp-boilerplate-template.html)
 * [Prettier 插件为更漂亮快应用代码](https://quickapp.lovejade.cn/prettier-quickapp-plugin/)
@@ -80,17 +85,18 @@
 
 #### 快应用常见问题
 
+* [快应用常见问题 - 官方](https://faq.quickapp.cn/)： <sub>汇聚快应用常见问题，包含调试器、IDE、以及引擎、登录、支付等，统一梳理、解答，从而更好服务开发者。</sub>
 * [Quick App · 快应用问题检索](https://qapp-wiki.vivo.com.cn): 由 [vivo](https://quickapp.vivo.com.cn) 所出品的快应用问题在线检索；
+* [快应用的机型覆盖、场景覆盖、框架版本（持续更新）](https://bbs.quickapp.cn/forum.php?mod=viewthread&tid=2721)：<sub>各大手机厂商对快应用的支持状况</sub>
 * [快应用开发问题反馈和需求征集](https://github.com/quickappcn/issues)
 * [快应用开发常见问题及解决方案](https://quickapp.lovejade.cn/quickapp-common-problems-and-solutions/)
 * [快应用的机型覆盖、场景覆盖、框架版本](https://quickapp.lovejade.cn/quickapp-phone_model-device-scene-coverage/?utm_source=github)
 * [快应用常见问题和技术帖子汇总](https://bbs.quickapp.cn/forum.php?mod=viewthread&tid=838)
 * [快应用账号注册流程](https://www.quickapp.cn/docCenter/post/71)
 
-
 ### 快应用开发工具
 
-快应用开发者工具（IDE）开发，是专为快应用开发设计，简单易用 灵活扩展 全面支持联盟标准规范；支持快应用、卡片等开发和调试；编译预览、打包上传、云测、远程预览、生成骨架屏等功能，一应俱全；另外，还支持账号登录，应用关联，查看详情等；快应用 IDE 旨在：**让开发者能够更高效开发、调试、测试以及发布快应用**（[IDE 下载地址](https://www.quickapp.cn/docCenter/IDEPublicity)）。
+快应用开发者工具（IDE）开发，是专为快应用开发设计，简单易用 灵活扩展 全面支持联盟标准规范；支持快应用、卡片等开发和调试；编译预览、打包上传、云测、远程预览、生成骨架屏等功能，一应俱全；另外，还支持账号登录，应用关联，查看详情等；快应用 IDE 旨在：**让开发者能够更高效开发、调试、测试以及发布快应用**（[IDE 下载地址](https://www.quickapp.cn/docCenter/IDEPublicity)）。关于快应用 IDE 的使用，可参见文章：[快应用开发工具入门介绍](https://quickapp.vivo.com.cn/quickapp-ide-getting-started/)。
 
 2021 年 IDE 版本更新时间线：
 
@@ -124,6 +130,7 @@
 
 * [prettier](https://github.com/prettier/prettier): <sub>Prettier is an opinionated code formatter. https://prettier.io/</sub>
 * [prettier-plugin-quickapp](https://github.com/nicejade/prettier-plugin-quickapp): <sub>Prettier Quickapp Plugin .</sub>
+* [Fly.js](https://www.npmjs.com/package/flyio)：<sub>一个支持所有JavaScript运行环境的基于 Promise 的、支持请求转发、强大的http请求库。可以让您在多个端上尽可能大限度的实现代码复用。目前支持的平台包括：Node.js、微信小程序、快应用、Weex 、React Native和浏览器。</sub>
 
 #### 开发框架
 
@@ -133,6 +140,7 @@
 
 #### UI组件库
 
+* [快应用联盟组件库 - 官方](https://quickappcn.github.io/qaui/)：<sub>专为快应用开发而设计。</sub>
 * [vivoquickapp/apex-ui](https://github.com/vivoquickapp/apex-ui): <sub>apex ui quickapp ui components library（Apex-UI组件库）</sub>
 * [Quist-UI | 快应用 UI组件库](https://github.com/JDsecretFE/quist-ui): <sub>快应用UI组件库，简洁，易用，高效</sub>
 * [vivo卡片组件库](https://vivoquickapp.github.io/vivo-cards-suits/): <sub>vivo卡片开发组件库是由vivo官方开发的一套包含个入口UI规范的组件库，可供开发者便捷快速开发能够在vivo手机上线的卡片项目。</sub>
@@ -199,6 +207,7 @@
 
 #### 其他新闻
 
+* [2021 快应用联盟开发者大会四大重点解读](https://bbs.quickapp.cn/forum.php?mod=viewthread&tid=3716)
 * [蓄势待发！2021快应用开发者大会来了！](https://bbs.quickapp.cn/forum.php?mod=viewthread&tid=3683)
 * [小程序、快应用、App Clips 对比](https://quickapp.lovejade.cn/miniprogram-quickapp-app_clips/)
 * [未成熟的快应用，值得投入开发吗？](https://www.jianshu.com/p/98127d8819f8)
@@ -208,7 +217,7 @@
 
 ### 快应用审核规范
 
-* [快应用联盟-自查指南](https://faq.quickapp.cn/self-checking-guide)
+* [**快应用联盟-自查指南**](https://faq.quickapp.cn/self-checking-guide)
 * [华为 | 快应用审核规范](https://developer.huawei.com/consumer/cn/service/hms/catalog/fastapp.html?page=fastapp_fastapp_toapprove_rule)
 * [vivo | 快应用审核规范](https://dev.vivo.com.cn/documentCenter/doc/120)
 * [OPPO | 快应用审核规范](https://open.oppomobile.com/service/distribute#id=4)
