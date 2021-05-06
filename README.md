@@ -37,6 +37,7 @@
   - [快应用教程](#快应用教程)
   - [快应用博客](https://quickapp.lovejade.cn/tag/quickapp/?utm_source=github.com)
   - [快应用常见问题](#快应用常见问题)
+- [快应用开发工具](#快应用开发工具)
 - [快应用生态篇](#快应用生态篇)
   - [脚手架](#脚手架)
   - [NPM插件篇](#NPM插件篇)
@@ -86,6 +87,27 @@
 * [快应用常见问题和技术帖子汇总](https://bbs.quickapp.cn/forum.php?mod=viewthread&tid=838)
 * [快应用账号注册流程](https://www.quickapp.cn/docCenter/post/71)
 
+
+### 快应用开发工具
+
+快应用开发者工具（IDE）开发，是专为快应用开发设计，简单易用 灵活扩展 全面支持联盟标准规范；支持快应用、卡片等开发和调试；编译预览、打包上传、云测、远程预览、生成骨架屏等功能，一应俱全；另外，还支持账号登录，应用关联，查看详情等；快应用 IDE 旨在：**让开发者能够更高效开发、调试、测试以及发布快应用**（[IDE 下载地址](https://www.quickapp.cn/docCenter/IDEPublicity)）。
+
+2021 年 IDE 版本更新时间线：
+
+* 4.13 [快应用开发工具 3.9 版本发布](http://quickapp.vivo.com.cn/quickapp-ide-v3-9-release/)
+* 3.11 [快应用开发工具 3.8 版本发布](http://quickapp.vivo.com.cn/quickapp-ide-v3-8-release/)
+* 2.4 [快应用开发工具 3.7 版本发布](http://quickapp.vivo.com.cn/quickapp-ide-v3-7-release/)
+
+2020 年 IDE 版本更新时间线：
+
+* 12.29 [快应用开发工具 3.6 版本发布](http://quickapp.vivo.com.cn/quickapp-ide-v3-6-release/)
+* 12.01 [快应用开发工具 3.5 版本发布](http://quickapp.vivo.com.cn/quickapp-ide-v3-5-release/)
+* 10.26 [快应用开发工具 3.4 版本发布](http://quickapp.vivo.com.cn/quickapp-ide-v3-4-release/)
+* 08.18 [快应用开发工具 3.3 版本发布](http://quickapp.vivo.com.cn/quickapp-ide-v3-3-release/)
+* 07.29 [快应用开发工具 3.2 版本发布](http://quickapp.vivo.com.cn/quickapp-ide-v3-2-release/)
+* 07.06 [快应用开发工具 3.1 版本发布](http://quickapp.vivo.com.cn/quickapp-ide-v3-1-release/)
+* 06.01 [快应用开发工具 3.0 版本发布](http://quickapp.vivo.com.cn/quickapp-ide-v3-release/)
+
 ### 快应用生态篇
 
 * [快统计 - 轻粒子](http://www.qinglizi.cn/): <sub>专注于快应用数据统计分析；数据监控；渠道识别；人群分析；事件/转化漏斗；</sub>
@@ -125,7 +147,6 @@
 
 #### 工具篇
 
-* [快应用官方 IDE](https://www.quickapp.cn/docCenter/IDEPublicity): <sub>简单易用 灵活扩展 全面支持联盟标准规范</sub>
 * [快应用在线编辑器](https://editor.quickapp.cn/?utm_source=awesome-quickapp): <sub>在线编辑，实时预览，支持手机真机查看</sub>
 * [vue-hap-tools](https://github.com/Youjingyu/vue-hap-tools): <sub>一个抹平 vue.js 与快应用差异性的工具，现已支持vue.js的大部分常用特性、vue-router、vuex。</sub>
 * [deepkolos/hap-types](https://github.com/deepkolos/hap-types): <sub>快应用接口定义文档转的 d.ts 定义包，用在 TS 编写快应用时，编辑器可给出提示</sub>
@@ -136,14 +157,15 @@
 
 - [快应用调试器](https://github.com/nicejade/awesome-quickapp/blob/master/resources/quickapp_debugger.apk?raw=true)
 
-`快应用调试器`可以连接到手机系统内的快应用执行环境，可以让您方便调试[「快应用」](https://nicelinks.site/post/5b5fb5bc615bf842b609105f)程序。
+`快应用调试器`可以连接到手机系统内的快应用执行环境，可以让您方便调试[「快应用」](https://nicelinks.site/post/5b5fb5bc615bf842b609105f)程序。您可以通过快应用 IDE 来安装最新版本调试器；操作步骤：1. 卸载已安装的调试器；2. 手机通过 USB 连接 IDE；3. 点击顶部工具栏 「**USB 调试**」按钮。
 
 #### 快应用预览版
 
 当您的手机系统尚未内置快应用运行平台，或您想在开发过程中体验快应用尚未正式发布的新功能、新特性，您可以安装 快应用预览版。这是一个包含了快应用基础功能的 `Android` 应用程序。下载安装成功后，通过快应用调试器可以选择在快应用预览版运行 rpk 包，开发测试对应平台的 `api` 和功能。
 
+您如果已经安装「快应用调试器」，可以通过调试器来安装「预览版」；入口：**平台下载**⏬。因此，这里便不再更新「快应用预览版」资源下载信息。
 
-- [快应用预览版 v1070](https://statres.quickapp.cn/quickapp/quickapptool/release/platform/quickapp_platform_preview_release_v1070.apk)
+- [快应用预览版 v1070](https://statres.quickapp.cn/quickapp/quickapptool/release/platform/quickapp_platform_preview_release_v1070.apk?raw=true)
 - [快应用预览版 v1060](https://github.com/nicejade/awesome-quickapp/blob/master/resources/quickapp_platform_preview_release_v1060.apk?raw=true)
 - [快应用预览版 v1050](https://github.com/nicejade/awesome-quickapp/blob/master/resources/quickapp_platform_preview_release_v1050.apk?raw=true)
 - [快应用预览版 v1040](https://github.com/nicejade/awesome-quickapp/blob/master/resources/quickapp_platform_preview_release_v1040.apk?raw=true)
@@ -167,6 +189,8 @@
 
 #### 版本新闻
 
+* [快应用 v1090 上线](https://doc.quickapp.cn/changelog/1090.html): <sub>2021-03-26</sub>
+* [快应用 v1080 上线](https://doc.quickapp.cn/changelog/1080.html): <sub>2020-08-27</sub>
 * [快应用 v1070 上线](https://doc.quickapp.cn/changelog/1070.html): <sub>2019-04-23</sub>
 * [快应用 v1060 上线](https://doc.quickapp.cn/changelog/1060.html): <sub>2019-12-03</sub>
 * [快应用 v1050 上线](https://doc.quickapp.cn/changelog/1050.html): <sub>2019-07-03</sub>
@@ -175,13 +199,16 @@
 
 #### 其他新闻
 
+* [蓄势待发！2021快应用开发者大会来了！](https://bbs.quickapp.cn/forum.php?mod=viewthread&tid=3683)
 * [小程序、快应用、App Clips 对比](https://quickapp.lovejade.cn/miniprogram-quickapp-app_clips/)
 * [未成熟的快应用，值得投入开发吗？](https://www.jianshu.com/p/98127d8819f8)
 * [快应用开放平台接口，可支持第三方的 DSL](https://mp.weixin.qq.com/s/1IHGbVtcDPYPP41yNOHyPA): <sub>2019-04-16</sub>
+* [《轻粒子-2019年快应用行业报告》](http://statres.qinglizi.cn/quickapp_statistics/%E3%80%8A%E8%BD%BB%E7%B2%92%E5%AD%90-2019%E5%B9%B4%E5%BF%AB%E5%BA%94%E7%94%A8%E8%A1%8C%E4%B8%9A%E6%8A%A5%E5%91%8A%E3%80%8B-preview.pdf)
 * [2018 年快应用行业报告](http://pic-test.kss.ksyun.com/quickapp_statistics/pdf/2018年快应用行业报告-preview.pdf)
 
 ### 快应用审核规范
 
+* [快应用联盟-自查指南](https://faq.quickapp.cn/self-checking-guide)
 * [华为 | 快应用审核规范](https://developer.huawei.com/consumer/cn/service/hms/catalog/fastapp.html?page=fastapp_fastapp_toapprove_rule)
 * [vivo | 快应用审核规范](https://dev.vivo.com.cn/documentCenter/doc/120)
 * [OPPO | 快应用审核规范](https://open.oppomobile.com/service/distribute#id=4)
