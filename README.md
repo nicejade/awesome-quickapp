@@ -155,6 +155,7 @@
 
 #### 工具篇
 
+* [qa-animation.css](https://vivoquickapp.github.io/qa-animation/): <sub>拥有 156+ 个兼容快应用的 CSS 动画效果，帮你快速实现快应用中的动画！</sub>
 * [快应用在线编辑器](https://editor.quickapp.cn/?utm_source=awesome-quickapp): <sub>在线编辑，实时预览，支持手机真机查看</sub>
 * [vue-hap-tools](https://github.com/Youjingyu/vue-hap-tools): <sub>一个抹平 vue.js 与快应用差异性的工具，现已支持vue.js的大部分常用特性、vue-router、vuex。</sub>
 * [deepkolos/hap-types](https://github.com/deepkolos/hap-types): <sub>快应用接口定义文档转的 d.ts 定义包，用在 TS 编写快应用时，编辑器可给出提示</sub>
