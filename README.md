@@ -85,7 +85,7 @@
 
 #### 快应用常见问题
 
-* [快应用常见问题 - 官方](https://faq.quickapp.cn/)： <sub>汇聚快应用常见问题，包含调试器、IDE、以及引擎、登录、支付等，统一梳理、解答，从而更好服务开发者。</sub>
+* ✨ [快应用常见问题 - 官方](https://faq.quickapp.cn/)： <sub>汇聚快应用常见问题，包含调试器、IDE、以及引擎、登录、支付等，统一梳理、解答，从而更好服务开发者。</sub>
 * [Quick App · 快应用问题检索](https://qapp-wiki.vivo.com.cn): 由 [vivo](https://quickapp.vivo.com.cn) 所出品的快应用问题在线检索；
 * [快应用的机型覆盖、场景覆盖、框架版本（持续更新）](https://bbs.quickapp.cn/forum.php?mod=viewthread&tid=2721)：<sub>各大手机厂商对快应用的支持状况</sub>
 * [快应用开发问题反馈和需求征集](https://github.com/quickappcn/issues)
@@ -140,7 +140,7 @@
 
 #### UI组件库
 
-* [快应用联盟组件库 - 官方](https://quickappcn.github.io/qaui/)：<sub>专为快应用开发而设计。</sub>
+* ✨ [快应用联盟组件库 - 官方](https://quickappcn.github.io/qaui/)：<sub>专为快应用开发而设计。</sub>
 * [vivoquickapp/apex-ui](https://github.com/vivoquickapp/apex-ui): <sub>apex ui quickapp ui components library（Apex-UI组件库）</sub>
 * [Quist-UI | 快应用 UI组件库](https://github.com/JDsecretFE/quist-ui): <sub>快应用UI组件库，简洁，易用，高效</sub>
 * [vivo卡片组件库](https://vivoquickapp.github.io/vivo-cards-suits/): <sub>vivo卡片开发组件库是由vivo官方开发的一套包含个入口UI规范的组件库，可供开发者便捷快速开发能够在vivo手机上线的卡片项目。</sub>
@@ -155,7 +155,7 @@
 
 #### 工具篇
 
-* [qa-animation.css](https://vivoquickapp.github.io/qa-animation/): <sub>拥有 156+ 个兼容快应用的 CSS 动画效果，帮你快速实现快应用中的动画！</sub>
+* ✨ [qa-animation.css](https://vivoquickapp.github.io/qa-animation/): <sub>拥有 156+ 个兼容快应用的 CSS 动画效果，帮你快速实现快应用中的动画！</sub>
 * [快应用在线编辑器](https://editor.quickapp.cn/?utm_source=awesome-quickapp): <sub>在线编辑，实时预览，支持手机真机查看</sub>
 * [vue-hap-tools](https://github.com/Youjingyu/vue-hap-tools): <sub>一个抹平 vue.js 与快应用差异性的工具，现已支持vue.js的大部分常用特性、vue-router、vuex。</sub>
 * [deepkolos/hap-types](https://github.com/deepkolos/hap-types): <sub>快应用接口定义文档转的 d.ts 定义包，用在 TS 编写快应用时，编辑器可给出提示</sub>
